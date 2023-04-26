@@ -17,7 +17,7 @@ game_font2 = pygame.font.SysFont("arial", 14)
 game_font3 = pygame.font.SysFont("arial", 16)
 
 #Textfile Junk
-filename = "FILE NAME"
+filename = "FILENAME.txt"
 TextFile = open(filename, "w")
 
 #Variables
