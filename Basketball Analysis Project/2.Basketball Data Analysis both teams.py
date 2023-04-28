@@ -17,8 +17,8 @@ game_font2 = pygame.font.SysFont("arial", 20)
 game_font3 = pygame.font.SysFont("arial", 16)
 
 #Textfile Junk - Will need to be updated manually
-f1 = "FILE NAME"
-f2 = "FILE NAME"
+f1 = "FILENAME.txt"
+f2 = "FILENAME.txt"
 
 docs = [f1,f2]
 

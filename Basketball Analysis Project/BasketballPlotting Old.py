@@ -7,7 +7,7 @@ import matplotlib.image as mpimg
 court = mpimg.imread('bb_court.png')
 
 #opening point documents
-f1 = open("FILE NAME", "r")
+f1 = open("FILENAME.txt", "r")
 
 #making a list of text files to extract data points from
 docs = [f1]

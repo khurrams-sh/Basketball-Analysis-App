@@ -15,8 +15,8 @@ Yellow = (255,255,0)
 game_font = pygame.font.SysFont("arial", 32)
 
 #Textfile Junk - Will need to be updated manually
-f1 = "FILE NAME"
-f2 = "FILE NAME"
+f1 = "FILENAME.txt"
+f2 = "FILENAME.txt"
 
 docs = [f1,f2]
 
